@@ -1,0 +1,8 @@
+
+
+login to 
+
+https://portal.azure.com/#home
+
+creds : impactgrp2@hotmail.com
+		impact@123
